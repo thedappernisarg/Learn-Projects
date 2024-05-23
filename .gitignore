@@ -1,0 +1,5 @@
+# Ignore all files with the .store extension
+*.DS_Store
+
+# Ignore all directories named .store
+.DS_Store/
